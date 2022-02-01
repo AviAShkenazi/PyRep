@@ -1,0 +1,28 @@
+{
+    "apps":
+    [
+        {
+            "_1a": "App Data to execute",
+            "active": 1,
+            "appDrive": "d:\\",
+            "appPath": "gitrep\\iterorth\\ScannerShell\\bin\\Release\\x64\\",
+            "appNAme": "Cadent.iTero.Shell.iTeroScannerShell.exe",
+            "sourcedirs": "gitrep\\iterorth"
+        },
+        {
+            "_1b": "App Data to execute",
+            "active": 0,
+            "appDrive": "d:\\",
+            "appPath": "gitrep\\iterorth\\iTeroDesktop\\bin\\Release\\x64\\",
+            "appNAme": "Cadent.iTero.iTeroDesktopApplication.exe",
+            "sourcedirs": "gitrep\\iterorth"
+        }
+    ],
+
+    "_2": "Report data",
+    "repDrive": "d:\\",
+    "repPrefix": "Shell_",
+    "repExe": "ReportGenerator\\ReportGenerator_5.0.2\\net5.0\\ReportGenerator.exe ",
+    "repFolder": "gitrep\\Reports\\",
+    "merge": 0
+}
