@@ -3,7 +3,7 @@
     [
         {
             "_1a": "App Data to execute",
-            "active": 1,
+            "active": 0,
             "appDrive": "d:\\",
             "appPath": "gitrep\\iterorth\\ScannerShell\\bin\\Release\\x64\\",
             "appNAme": "Cadent.iTero.Shell.iTeroScannerShell.exe",
@@ -15,6 +15,14 @@
             "appDrive": "d:\\",
             "appPath": "gitrep\\iterorth\\iTeroDesktop\\bin\\Release\\x64\\",
             "appNAme": "Cadent.iTero.iTeroDesktopApplication.exe",
+            "sourcedirs": "gitrep\\iterorth"
+        },
+        {
+            "_1c": "App Data to execute",
+            "active": 1,
+            "appDrive": "d:\\",
+            "appPath": "gitrep\\iterorth\\bin\\Release\\x64\\",
+            "appNAme": "Cadent.iTero.UI.Application.exe",
             "sourcedirs": "gitrep\\iterorth"
         }
     ],
