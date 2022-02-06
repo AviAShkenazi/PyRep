@@ -111,6 +111,10 @@ class CodeCover:
         subprocess.call(cmd)
 
     def ShowReport(self):
+        """
+        show report over web browser
+        :return:
+        """
         url = "file://" + self.folderName + '\\index.html'
         print (url)
         webbrowser.open_new_tab(url)
