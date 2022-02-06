@@ -76,6 +76,11 @@ class CodeCover:
         subprocess.call(cmd)
 
     def CollectFolderNames(self):
+        """
+        In case we need to merge report files
+        you can select the folders
+        :return:
+        """
         if self.jsonData['merge']:
             root = Tk() # pointing root to Tk() to use it as Tk() in program.
             root.withdraw() # Hides small tkinter window.
